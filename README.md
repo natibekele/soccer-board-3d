@@ -1,2 +1,4 @@
-# soccer-board-3d
-threejs soccer board. 
+# 3D Soccer Board
+
+### First of a set of soccer apps/tools?
+### threejs soccer board. 
